@@ -3,9 +3,9 @@ import sys
 
 def tonum(s):
     try:
-        ans += int(line)
+        ans += int(s)
     except:
-        ans += float(line)
+        ans += float(s)
 
 ans = 0
 for line in sys.stdin:
