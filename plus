@@ -2,7 +2,7 @@
 # SPDX-FileCopyrightText: 2023 Fumito Shibukawa
 # SPDX-License-Identifier: BSD-3-Clause
 
-import syss
+import sys
 
 def tonum(s):
     try:
